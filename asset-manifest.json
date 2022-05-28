@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "https://raisehead-studio.github.io/ratezip_comparison_public/static/css/main.9103c77f.css",
+    "main.js": "https://raisehead-studio.github.io/ratezip_comparison_public/static/js/main.eadb8a9b.js",
+    "static/js/787.96652efc.chunk.js": "https://raisehead-studio.github.io/ratezip_comparison_public/static/js/787.96652efc.chunk.js",
+    "static/media/new_modal_photo1.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/new_modal_photo1.d56a1e8e0ffe4448d5f5.png",
+    "static/media/icons.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/icons.c0bfaf710493a5d8da6b.png",
+    "static/media/bg.jpg": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/bg.e60197f73b869ea2eade.jpg",
+    "static/media/whp.jpg": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/whp.47818576243ed0b74ecc.jpg",
+    "static/media/new_modal_photo2.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/new_modal_photo2.c392af635fc3c524b154.png",
+    "static/media/footer.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/footer.9ef03bc76dd3c379a989.png",
+    "static/media/mortgage-icon.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/mortgage-icon.8ef4fdbd71a11428c4c8.png",
+    "static/media/header.jpg": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/header.cda8a42b85e58bd2b05d.jpg",
+    "static/media/header-lt.jpg": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/header-lt.6f5f59a33049eec38f4b.jpg",
+    "static/media/ehl.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/ehl.54b578735e0f27975847.png",
+    "static/media/star_mask.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/star_mask.1d54cbad344bfdc6b6b0.png",
+    "static/media/start_filled.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/start_filled.091c4b2096568942b0bc.png",
+    "static/media/start_half_filled.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/start_half_filled.a696420cd2895e089375.png",
+    "static/media/loandepot.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/loandepot.5b55bfc1aaea6e04b211.png",
+    "static/media/start_not_filled.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/start_not_filled.37256b76016ce8ec4d19.png",
+    "static/media/zillow-home-loans.jpg": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/zillow-home-loans.ecb0277cfd3d8f884f47.jpg",
+    "static/media/check.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/check.f306c52678eeef9af6d6.png",
+    "static/media/msn-cnn-ms-mod.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/msn-cnn-ms-mod.852431d95e1ac55138f6.png",
+    "static/media/refi.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/refi.811b4bb4ffc63c80d0df.png",
+    "static/media/msn-cnn-ms.png": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/msn-cnn-ms.b502343f730fd80efc21.png",
+    "static/media/quicken-loans.svg": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/quicken-loans.b7c0426f146576508182.svg",
+    "static/media/amerisave.webp": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/amerisave.3b7a1723b17e1298af29.webp",
+    "static/media/veterans-united.webp": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/veterans-united.250766abadd360a30d5f.webp",
+    "static/media/unison.webp": "https://raisehead-studio.github.io/ratezip_comparison_public/static/media/unison.db8b000a9903888fa62e.webp",
+    "index.html": "https://raisehead-studio.github.io/ratezip_comparison_public/index.html",
+    "main.9103c77f.css.map": "https://raisehead-studio.github.io/ratezip_comparison_public/static/css/main.9103c77f.css.map",
+    "main.eadb8a9b.js.map": "https://raisehead-studio.github.io/ratezip_comparison_public/static/js/main.eadb8a9b.js.map",
+    "787.96652efc.chunk.js.map": "https://raisehead-studio.github.io/ratezip_comparison_public/static/js/787.96652efc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9103c77f.css",
+    "static/js/main.eadb8a9b.js"
+  ]
+}
